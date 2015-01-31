@@ -202,3 +202,58 @@ Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2014-12-03 14:16:34 -080
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-12-03 14:16:34 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (3.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-30 18:26:55 -0700
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 1776ms (Views: 1767.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/dashboard/layout.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/dashboard/one.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/dashboard/three.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/dashboard/two.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-01-30 18:26:57 -0700
